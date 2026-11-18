@@ -1,0 +1,1640 @@
+[
+  {
+    "dateOfSleep": "2025-12-01",
+    "isMainSleep": true,
+    "minutesAsleep": 347,
+    "timeInBed": 420,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 162},
+        "rem": {"minutes": 72},
+        "wake": {"minutes": 65}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.2},
+    "spo2": {"avg": 92.1},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2025-12-02",
+    "isMainSleep": true,
+    "minutesAsleep": 312,
+    "timeInBed": 395,
+    "efficiency": 79,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 38},
+        "light": {"minutes": 144},
+        "rem": {"minutes": 58},
+        "wake": {"minutes": 83}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.8},
+    "spo2": {"avg": 91.4},
+    "score": {"overall": 58}
+  },
+  {
+    "dateOfSleep": "2025-12-03",
+    "isMainSleep": true,
+    "minutesAsleep": 368,
+    "timeInBed": 435,
+    "efficiency": 84,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 52},
+        "light": {"minutes": 170},
+        "rem": {"minutes": 78},
+        "wake": {"minutes": 57}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.5},
+    "spo2": {"avg": 92.8},
+    "score": {"overall": 67}
+  },
+  {
+    "dateOfSleep": "2025-12-04",
+    "isMainSleep": true,
+    "minutesAsleep": 298,
+    "timeInBed": 410,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 32},
+        "light": {"minutes": 135},
+        "rem": {"minutes": 52},
+        "wake": {"minutes": 95}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.6},
+    "spo2": {"avg": 90.2},
+    "score": {"overall": 52}
+  },
+  {
+    "dateOfSleep": "2025-12-05",
+    "isMainSleep": true,
+    "minutesAsleep": 334,
+    "timeInBed": 400,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 155},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 59}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.1},
+    "spo2": {"avg": 91.7},
+    "score": {"overall": 61}
+  },
+  {
+    "dateOfSleep": "2025-12-06",
+    "isMainSleep": true,
+    "minutesAsleep": 285,
+    "timeInBed": 380,
+    "efficiency": 75,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 35},
+        "light": {"minutes": 130},
+        "rem": {"minutes": 50},
+        "wake": {"minutes": 78}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.3},
+    "spo2": {"avg": 90.8},
+    "score": {"overall": 55}
+  },
+  {
+    "dateOfSleep": "2025-12-07",
+    "isMainSleep": true,
+    "minutesAsleep": 352,
+    "timeInBed": 425,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 50},
+        "light": {"minutes": 160},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 62}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.8},
+    "spo2": {"avg": 92.3},
+    "score": {"overall": 64}
+  },
+  {
+    "dateOfSleep": "2025-12-08",
+    "isMainSleep": true,
+    "minutesAsleep": 275,
+    "timeInBed": 390,
+    "efficiency": 70,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 30},
+        "light": {"minutes": 125},
+        "rem": {"minutes": 48},
+        "wake": {"minutes": 90}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.9},
+    "spo2": {"avg": 89.5},
+    "score": {"overall": 48}
+  },
+  {
+    "dateOfSleep": "2025-12-09",
+    "isMainSleep": true,
+    "minutesAsleep": 341,
+    "timeInBed": 415,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 46},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 61}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.7},
+    "spo2": {"avg": 91.9},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2025-12-10",
+    "isMainSleep": true,
+    "minutesAsleep": 305,
+    "timeInBed": 405,
+    "efficiency": 75,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 36},
+        "light": {"minutes": 140},
+        "rem": {"minutes": 55},
+        "wake": {"minutes": 80}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.8},
+    "spo2": {"avg": 91.1},
+    "score": {"overall": 56}
+  },
+  {
+    "dateOfSleep": "2025-12-11",
+    "isMainSleep": true,
+    "minutesAsleep": 355,
+    "timeInBed": 430,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 51},
+        "light": {"minutes": 165},
+        "rem": {"minutes": 75},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.1},
+    "spo2": {"avg": 92.5},
+    "score": {"overall": 65}
+  },
+  {
+    "dateOfSleep": "2025-12-12",
+    "isMainSleep": true,
+    "minutesAsleep": 290,
+    "timeInBed": 385,
+    "efficiency": 75,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 33},
+        "light": {"minutes": 138},
+        "rem": {"minutes": 53},
+        "wake": {"minutes": 75}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.9},
+    "spo2": {"avg": 90.5},
+    "score": {"overall": 53}
+  },
+  {
+    "dateOfSleep": "2025-12-13",
+    "isMainSleep": true,
+    "minutesAsleep": 360,
+    "timeInBed": 440,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 54},
+        "light": {"minutes": 168},
+        "rem": {"minutes": 76},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.2},
+    "spo2": {"avg": 93.0},
+    "score": {"overall": 68}
+  },
+  {
+    "dateOfSleep": "2025-12-14",
+    "isMainSleep": true,
+    "minutesAsleep": 268,
+    "timeInBed": 375,
+    "efficiency": 71,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 122},
+        "rem": {"minutes": 46},
+        "wake": {"minutes": 88}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.2},
+    "spo2": {"avg": 89.2},
+    "score": {"overall": 46}
+  },
+  {
+    "dateOfSleep": "2025-12-15",
+    "isMainSleep": true,
+    "minutesAsleep": 338,
+    "timeInBed": 408,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 45},
+        "light": {"minutes": 156},
+        "rem": {"minutes": 69},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.5},
+    "spo2": {"avg": 91.6},
+    "score": {"overall": 60}
+  },
+  {
+    "dateOfSleep": "2025-12-16",
+    "isMainSleep": true,
+    "minutesAsleep": 310,
+    "timeInBed": 398,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 40},
+        "light": {"minutes": 142},
+        "rem": {"minutes": 60},
+        "wake": {"minutes": 70}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.0},
+    "spo2": {"avg": 91.0},
+    "score": {"overall": 57}
+  },
+  {
+    "dateOfSleep": "2025-12-17",
+    "isMainSleep": true,
+    "minutesAsleep": 365,
+    "timeInBed": 438,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 55},
+        "light": {"minutes": 172},
+        "rem": {"minutes": 78},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 26.1},
+    "spo2": {"avg": 93.2},
+    "score": {"overall": 69}
+  },
+  {
+    "dateOfSleep": "2025-12-18",
+    "isMainSleep": true,
+    "minutesAsleep": 278,
+    "timeInBed": 388,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 31},
+        "light": {"minutes": 128},
+        "rem": {"minutes": 49},
+        "wake": {"minutes": 85}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.1},
+    "spo2": {"avg": 89.8},
+    "score": {"overall": 50}
+  },
+  {
+    "dateOfSleep": "2025-12-19",
+    "isMainSleep": true,
+    "minutesAsleep": 345,
+    "timeInBed": 422,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 47},
+        "light": {"minutes": 161},
+        "rem": {"minutes": 71},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.0},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2025-12-20",
+    "isMainSleep": true,
+    "minutesAsleep": 295,
+    "timeInBed": 402,
+    "efficiency": 73,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 34},
+        "light": {"minutes": 136},
+        "rem": {"minutes": 54},
+        "wake": {"minutes": 82}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.1},
+    "spo2": {"avg": 90.6},
+    "score": {"overall": 54}
+  },
+  {
+    "dateOfSleep": "2025-12-21",
+    "isMainSleep": true,
+    "minutesAsleep": 358,
+    "timeInBed": 432,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 53},
+        "light": {"minutes": 166},
+        "rem": {"minutes": 76},
+        "wake": {"minutes": 57}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.8},
+    "spo2": {"avg": 92.7},
+    "score": {"overall": 66}
+  },
+  {
+    "dateOfSleep": "2025-12-22",
+    "isMainSleep": true,
+    "minutesAsleep": 282,
+    "timeInBed": 392,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 29},
+        "light": {"minutes": 132},
+        "rem": {"minutes": 47},
+        "wake": {"minutes": 87}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.7},
+    "spo2": {"avg": 89.6},
+    "score": {"overall": 49}
+  },
+  {
+    "dateOfSleep": "2025-12-23",
+    "isMainSleep": true,
+    "minutesAsleep": 335,
+    "timeInBed": 412,
+    "efficiency": 81,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 43},
+        "light": {"minutes": 154},
+        "rem": {"minutes": 66},
+        "wake": {"minutes": 65}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.0},
+    "spo2": {"avg": 91.3},
+    "score": {"overall": 59}
+  },
+  {
+    "dateOfSleep": "2025-12-24",
+    "isMainSleep": true,
+    "minutesAsleep": 348,
+    "timeInBed": 418,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 49},
+        "light": {"minutes": 163},
+        "rem": {"minutes": 73},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.5},
+    "spo2": {"avg": 92.2},
+    "score": {"overall": 64}
+  },
+  {
+    "dateOfSleep": "2025-12-25",
+    "isMainSleep": true,
+    "minutesAsleep": 288,
+    "timeInBed": 382,
+    "efficiency": 75,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 32},
+        "light": {"minutes": 134},
+        "rem": {"minutes": 52},
+        "wake": {"minutes": 76}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.5},
+    "spo2": {"avg": 90.9},
+    "score": {"overall": 55}
+  },
+  {
+    "dateOfSleep": "2025-12-26",
+    "isMainSleep": true,
+    "minutesAsleep": 362,
+    "timeInBed": 436,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 56},
+        "light": {"minutes": 170},
+        "rem": {"minutes": 78},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.5},
+    "spo2": {"avg": 93.1},
+    "score": {"overall": 68}
+  },
+  {
+    "dateOfSleep": "2025-12-27",
+    "isMainSleep": true,
+    "minutesAsleep": 270,
+    "timeInBed": 378,
+    "efficiency": 71,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 27},
+        "light": {"minutes": 124},
+        "rem": {"minutes": 45},
+        "wake": {"minutes": 90}
+      }
+    },
+    "hrv": {"dailyRmssd": 17.8},
+    "spo2": {"avg": 88.9},
+    "score": {"overall": 45}
+  },
+  {
+    "dateOfSleep": "2025-12-28",
+    "isMainSleep": true,
+    "minutesAsleep": 340,
+    "timeInBed": 415,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 62}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.8},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 61}
+  },
+  {
+    "dateOfSleep": "2025-12-29",
+    "isMainSleep": true,
+    "minutesAsleep": 318,
+    "timeInBed": 408,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 42},
+        "light": {"minutes": 146},
+        "rem": {"minutes": 62},
+        "wake": {"minutes": 72}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.2},
+    "spo2": {"avg": 91.0},
+    "score": {"overall": 58}
+  },
+  {
+    "dateOfSleep": "2025-12-30",
+    "isMainSleep": true,
+    "minutesAsleep": 355,
+    "timeInBed": 428,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 50},
+        "light": {"minutes": 164},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.0},
+    "spo2": {"avg": 92.6},
+    "score": {"overall": 65}
+  },
+  {
+    "dateOfSleep": "2025-12-31",
+    "isMainSleep": true,
+    "minutesAsleep": 292,
+    "timeInBed": 396,
+    "efficiency": 74,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 36},
+        "light": {"minutes": 138},
+        "rem": {"minutes": 55},
+        "wake": {"minutes": 78}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.0},
+    "spo2": {"avg": 90.4},
+    "score": {"overall": 53}
+  },
+  {
+    "dateOfSleep": "2026-01-01",
+    "isMainSleep": true,
+    "minutesAsleep": 350,
+    "timeInBed": 425,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 162},
+        "rem": {"minutes": 72},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.0},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-01-02",
+    "isMainSleep": true,
+    "minutesAsleep": 308,
+    "timeInBed": 400,
+    "efficiency": 77,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 38},
+        "light": {"minutes": 142},
+        "rem": {"minutes": 58},
+        "wake": {"minutes": 76}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.8},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 56}
+  },
+  {
+    "dateOfSleep": "2026-01-03",
+    "isMainSleep": true,
+    "minutesAsleep": 365,
+    "timeInBed": 438,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 54},
+        "light": {"minutes": 170},
+        "rem": {"minutes": 78},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.8},
+    "spo2": {"avg": 93.2},
+    "score": {"overall": 69}
+  },
+  {
+    "dateOfSleep": "2026-01-04",
+    "isMainSleep": true,
+    "minutesAsleep": 272,
+    "timeInBed": 380,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 126},
+        "rem": {"minutes": 46},
+        "wake": {"minutes": 88}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.5},
+    "spo2": {"avg": 89.5},
+    "score": {"overall": 48}
+  },
+  {
+    "dateOfSleep": "2026-01-05",
+    "isMainSleep": true,
+    "minutesAsleep": 338,
+    "timeInBed": 410,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 45},
+        "light": {"minutes": 156},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.5},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2026-01-06",
+    "isMainSleep": true,
+    "minutesAsleep": 315,
+    "timeInBed": 405,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 42},
+        "light": {"minutes": 145},
+        "rem": {"minutes": 60},
+        "wake": {"minutes": 72}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.5},
+    "spo2": {"avg": 91.5},
+    "score": {"overall": 59}
+  },
+  {
+    "dateOfSleep": "2026-01-07",
+    "isMainSleep": true,
+    "minutesAsleep": 358,
+    "timeInBed": 432,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 52},
+        "light": {"minutes": 166},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.5},
+    "spo2": {"avg": 92.8},
+    "score": {"overall": 66}
+  },
+  {
+    "dateOfSleep": "2026-01-08",
+    "isMainSleep": true,
+    "minutesAsleep": 278,
+    "timeInBed": 388,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 30},
+        "light": {"minutes": 128},
+        "rem": {"minutes": 48},
+        "wake": {"minutes": 85}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.2},
+    "spo2": {"avg": 89.8},
+    "score": {"overall": 50}
+  },
+  {
+    "dateOfSleep": "2026-01-09",
+    "isMainSleep": true,
+    "minutesAsleep": 342,
+    "timeInBed": 418,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 46},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.2},
+    "spo2": {"avg": 92.2},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-01-10",
+    "isMainSleep": true,
+    "minutesAsleep": 298,
+    "timeInBed": 398,
+    "efficiency": 75,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 35},
+        "light": {"minutes": 136},
+        "rem": {"minutes": 55},
+        "wake": {"minutes": 78}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.5},
+    "spo2": {"avg": 90.8},
+    "score": {"overall": 54}
+  },
+  {
+    "dateOfSleep": "2026-01-11",
+    "isMainSleep": true,
+    "minutesAsleep": 360,
+    "timeInBed": 435,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 55},
+        "light": {"minutes": 168},
+        "rem": {"minutes": 76},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.0},
+    "spo2": {"avg": 93.0},
+    "score": {"overall": 68}
+  },
+  {
+    "dateOfSleep": "2026-01-12",
+    "isMainSleep": true,
+    "minutesAsleep": 265,
+    "timeInBed": 372,
+    "efficiency": 71,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 26},
+        "light": {"minutes": 122},
+        "rem": {"minutes": 44},
+        "wake": {"minutes": 92}
+      }
+    },
+    "hrv": {"dailyRmssd": 17.5},
+    "spo2": {"avg": 88.8},
+    "score": {"overall": 44}
+  },
+  {
+    "dateOfSleep": "2026-01-13",
+    "isMainSleep": true,
+    "minutesAsleep": 335,
+    "timeInBed": 408,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 42},
+        "light": {"minutes": 155},
+        "rem": {"minutes": 66},
+        "wake": {"minutes": 62}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.0},
+    "spo2": {"avg": 91.5},
+    "score": {"overall": 61}
+  },
+  {
+    "dateOfSleep": "2026-01-14",
+    "isMainSleep": true,
+    "minutesAsleep": 320,
+    "timeInBed": 410,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 148},
+        "rem": {"minutes": 62},
+        "wake": {"minutes": 70}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.8},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 58}
+  },
+  {
+    "dateOfSleep": "2026-01-15",
+    "isMainSleep": true,
+    "minutesAsleep": 352,
+    "timeInBed": 428,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 50},
+        "light": {"minutes": 162},
+        "rem": {"minutes": 72},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.2},
+    "spo2": {"avg": 92.5},
+    "score": {"overall": 65}
+  },
+  {
+    "dateOfSleep": "2026-01-16",
+    "isMainSleep": true,
+    "minutesAsleep": 285,
+    "timeInBed": 390,
+    "efficiency": 73,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 32},
+        "light": {"minutes": 132},
+        "rem": {"minutes": 50},
+        "wake": {"minutes": 82}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.8},
+    "spo2": {"avg": 90.2},
+    "score": {"overall": 52}
+  },
+  {
+    "dateOfSleep": "2026-01-17",
+    "isMainSleep": true,
+    "minutesAsleep": 348,
+    "timeInBed": 422,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 160},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.5},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 64}
+  },
+  {
+    "dateOfSleep": "2026-01-18",
+    "isMainSleep": true,
+    "minutesAsleep": 302,
+    "timeInBed": 395,
+    "efficiency": 76,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 38},
+        "light": {"minutes": 140},
+        "rem": {"minutes": 56},
+        "wake": {"minutes": 75}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.5},
+    "spo2": {"avg": 91.0},
+    "score": {"overall": 55}
+  },
+  {
+    "dateOfSleep": "2026-01-19",
+    "isMainSleep": true,
+    "minutesAsleep": 362,
+    "timeInBed": 438,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 56},
+        "light": {"minutes": 168},
+        "rem": {"minutes": 78},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.5},
+    "spo2": {"avg": 93.2},
+    "score": {"overall": 69}
+  },
+  {
+    "dateOfSleep": "2026-01-20",
+    "isMainSleep": true,
+    "minutesAsleep": 272,
+    "timeInBed": 378,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 126},
+        "rem": {"minutes": 46},
+        "wake": {"minutes": 88}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.0},
+    "spo2": {"avg": 89.2},
+    "score": {"overall": 47}
+  },
+  {
+    "dateOfSleep": "2026-01-21",
+    "isMainSleep": true,
+    "minutesAsleep": 338,
+    "timeInBed": 412,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 156},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.8},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2026-01-22",
+    "isMainSleep": true,
+    "minutesAsleep": 312,
+    "timeInBed": 402,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 40},
+        "light": {"minutes": 144},
+        "rem": {"minutes": 58},
+        "wake": {"minutes": 72}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.0},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 57}
+  },
+  {
+    "dateOfSleep": "2026-01-23",
+    "isMainSleep": true,
+    "minutesAsleep": 355,
+    "timeInBed": 430,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 52},
+        "light": {"minutes": 164},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.5},
+    "spo2": {"avg": 92.8},
+    "score": {"overall": 66}
+  },
+  {
+    "dateOfSleep": "2026-01-24",
+    "isMainSleep": true,
+    "minutesAsleep": 275,
+    "timeInBed": 382,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 30},
+        "light": {"minutes": 125},
+        "rem": {"minutes": 48},
+        "wake": {"minutes": 85}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.8},
+    "spo2": {"avg": 89.5},
+    "score": {"overall": 49}
+  },
+  {
+    "dateOfSleep": "2026-01-25",
+    "isMainSleep": true,
+    "minutesAsleep": 342,
+    "timeInBed": 415,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 46},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.0},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-01-26",
+    "isMainSleep": true,
+    "minutesAsleep": 305,
+    "timeInBed": 398,
+    "efficiency": 77,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 36},
+        "light": {"minutes": 140},
+        "rem": {"minutes": 55},
+        "wake": {"minutes": 76}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.8},
+    "spo2": {"avg": 91.0},
+    "score": {"overall": 56}
+  },
+  {
+    "dateOfSleep": "2026-01-27",
+    "isMainSleep": true,
+    "minutesAsleep": 360,
+    "timeInBed": 435,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 54},
+        "light": {"minutes": 166},
+        "rem": {"minutes": 76},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.2},
+    "spo2": {"avg": 93.0},
+    "score": {"overall": 68}
+  },
+  {
+    "dateOfSleep": "2026-01-28",
+    "isMainSleep": true,
+    "minutesAsleep": 268,
+    "timeInBed": 375,
+    "efficiency": 71,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 124},
+        "rem": {"minutes": 45},
+        "wake": {"minutes": 90}
+      }
+    },
+    "hrv": {"dailyRmssd": 17.2},
+    "spo2": {"avg": 88.8},
+    "score": {"overall": 44}
+  },
+  {
+    "dateOfSleep": "2026-01-29",
+    "isMainSleep": true,
+    "minutesAsleep": 345,
+    "timeInBed": 420,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 160},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.2},
+    "spo2": {"avg": 92.2},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-01-30",
+    "isMainSleep": true,
+    "minutesAsleep": 318,
+    "timeInBed": 408,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 42},
+        "light": {"minutes": 146},
+        "rem": {"minutes": 60},
+        "wake": {"minutes": 72}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.2},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 58}
+  },
+  {
+    "dateOfSleep": "2026-01-31",
+    "isMainSleep": true,
+    "minutesAsleep": 352,
+    "timeInBed": 428,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 50},
+        "light": {"minutes": 162},
+        "rem": {"minutes": 72},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.0},
+    "spo2": {"avg": 92.5},
+    "score": {"overall": 65}
+  },
+  {
+    "dateOfSleep": "2026-02-01",
+    "isMainSleep": true,
+    "minutesAsleep": 338,
+    "timeInBed": 412,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 156},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.5},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2026-02-02",
+    "isMainSleep": true,
+    "minutesAsleep": 365,
+    "timeInBed": 440,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 56},
+        "light": {"minutes": 170},
+        "rem": {"minutes": 78},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 26.0},
+    "spo2": {"avg": 93.5},
+    "score": {"overall": 70}
+  },
+  {
+    "dateOfSleep": "2026-02-03",
+    "isMainSleep": true,
+    "minutesAsleep": 282,
+    "timeInBed": 388,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 30},
+        "light": {"minutes": 130},
+        "rem": {"minutes": 48},
+        "wake": {"minutes": 86}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.0},
+    "spo2": {"avg": 89.8},
+    "score": {"overall": 50}
+  },
+  {
+    "dateOfSleep": "2026-02-04",
+    "isMainSleep": true,
+    "minutesAsleep": 340,
+    "timeInBed": 415,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 46},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.8},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-02-05",
+    "isMainSleep": true,
+    "minutesAsleep": 310,
+    "timeInBed": 402,
+    "efficiency": 77,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 38},
+        "light": {"minutes": 142},
+        "rem": {"minutes": 58},
+        "wake": {"minutes": 74}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.0},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 57}
+  },
+  {
+    "dateOfSleep": "2026-02-06",
+    "isMainSleep": true,
+    "minutesAsleep": 358,
+    "timeInBed": 432,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 52},
+        "light": {"minutes": 166},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.8},
+    "spo2": {"avg": 92.8},
+    "score": {"overall": 66}
+  },
+  {
+    "dateOfSleep": "2026-02-07",
+    "isMainSleep": true,
+    "minutesAsleep": 275,
+    "timeInBed": 382,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 125},
+        "rem": {"minutes": 46},
+        "wake": {"minutes": 88}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.5},
+    "spo2": {"avg": 89.2},
+    "score": {"overall": 48}
+  },
+  {
+    "dateOfSleep": "2026-02-08",
+    "isMainSleep": true,
+    "minutesAsleep": 345,
+    "timeInBed": 418,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.0},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-02-09",
+    "isMainSleep": true,
+    "minutesAsleep": 315,
+    "timeInBed": 405,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 40},
+        "light": {"minutes": 145},
+        "rem": {"minutes": 60},
+        "wake": {"minutes": 72}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.5},
+    "spo2": {"avg": 91.5},
+    "score": {"overall": 58}
+  },
+  {
+    "dateOfSleep": "2026-02-10",
+    "isMainSleep": true,
+    "minutesAsleep": 355,
+    "timeInBed": 430,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 52},
+        "light": {"minutes": 164},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.2},
+    "spo2": {"avg": 92.8},
+    "score": {"overall": 66}
+  },
+  {
+    "dateOfSleep": "2026-02-11",
+    "isMainSleep": true,
+    "minutesAsleep": 268,
+    "timeInBed": 375,
+    "efficiency": 71,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 26},
+        "light": {"minutes": 122},
+        "rem": {"minutes": 44},
+        "wake": {"minutes": 92}
+      }
+    },
+    "hrv": {"dailyRmssd": 17.8},
+    "spo2": {"avg": 88.5},
+    "score": {"overall": 44}
+  },
+  {
+    "dateOfSleep": "2026-02-12",
+    "isMainSleep": true,
+    "minutesAsleep": 338,
+    "timeInBed": 412,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 156},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.5},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2026-02-13",
+    "isMainSleep": true,
+    "minutesAsleep": 320,
+    "timeInBed": 408,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 42},
+        "light": {"minutes": 148},
+        "rem": {"minutes": 62},
+        "wake": {"minutes": 70}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.2},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 58}
+  },
+  {
+    "dateOfSleep": "2026-02-14",
+    "isMainSleep": true,
+    "minutesAsleep": 362,
+    "timeInBed": 435,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 55},
+        "light": {"minutes": 168},
+        "rem": {"minutes": 76},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.5},
+    "spo2": {"avg": 93.2},
+    "score": {"overall": 69}
+  },
+  {
+    "dateOfSleep": "2026-02-15",
+    "isMainSleep": true,
+    "minutesAsleep": 278,
+    "timeInBed": 385,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 30},
+        "light": {"minutes": 128},
+        "rem": {"minutes": 48},
+        "wake": {"minutes": 85}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.8},
+    "spo2": {"avg": 89.5},
+    "score": {"overall": 49}
+  },
+  {
+    "dateOfSleep": "2026-02-16",
+    "isMainSleep": true,
+    "minutesAsleep": 342,
+    "timeInBed": 415,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 46},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.0},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  },
+  {
+    "dateOfSleep": "2026-02-17",
+    "isMainSleep": true,
+    "minutesAsleep": 305,
+    "timeInBed": 398,
+    "efficiency": 77,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 36},
+        "light": {"minutes": 140},
+        "rem": {"minutes": 56},
+        "wake": {"minutes": 76}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.5},
+    "spo2": {"avg": 91.0},
+    "score": {"overall": 55}
+  },
+  {
+    "dateOfSleep": "2026-02-18",
+    "isMainSleep": true,
+    "minutesAsleep": 358,
+    "timeInBed": 432,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 52},
+        "light": {"minutes": 166},
+        "rem": {"minutes": 74},
+        "wake": {"minutes": 56}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.5},
+    "spo2": {"avg": 92.8},
+    "score": {"overall": 66}
+  },
+  {
+    "dateOfSleep": "2026-02-19",
+    "isMainSleep": true,
+    "minutesAsleep": 270,
+    "timeInBed": 378,
+    "efficiency": 71,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 124},
+        "rem": {"minutes": 45},
+        "wake": {"minutes": 90}
+      }
+    },
+    "hrv": {"dailyRmssd": 17.5},
+    "spo2": {"avg": 88.8},
+    "score": {"overall": 44}
+  },
+  {
+    "dateOfSleep": "2026-02-20",
+    "isMainSleep": true,
+    "minutesAsleep": 340,
+    "timeInBed": 412,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 45},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 68},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.8},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2026-02-21",
+    "isMainSleep": true,
+    "minutesAsleep": 312,
+    "timeInBed": 402,
+    "efficiency": 78,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 40},
+        "light": {"minutes": 144},
+        "rem": {"minutes": 58},
+        "wake": {"minutes": 72}
+      }
+    },
+    "hrv": {"dailyRmssd": 21.0},
+    "spo2": {"avg": 91.2},
+    "score": {"overall": 57}
+  },
+  {
+    "dateOfSleep": "2026-02-22",
+    "isMainSleep": true,
+    "minutesAsleep": 352,
+    "timeInBed": 428,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 50},
+        "light": {"minutes": 162},
+        "rem": {"minutes": 72},
+        "wake": {"minutes": 60}
+      }
+    },
+    "hrv": {"dailyRmssd": 24.0},
+    "spo2": {"avg": 92.5},
+    "score": {"overall": 65}
+  },
+  {
+    "dateOfSleep": "2026-02-23",
+    "isMainSleep": true,
+    "minutesAsleep": 282,
+    "timeInBed": 385,
+    "efficiency": 73,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 32},
+        "light": {"minutes": 130},
+        "rem": {"minutes": 50},
+        "wake": {"minutes": 82}
+      }
+    },
+    "hrv": {"dailyRmssd": 19.2},
+    "spo2": {"avg": 90.0},
+    "score": {"overall": 51}
+  },
+  {
+    "dateOfSleep": "2026-02-24",
+    "isMainSleep": true,
+    "minutesAsleep": 348,
+    "timeInBed": 422,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 160},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.5},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 64}
+  },
+  {
+    "dateOfSleep": "2026-02-25",
+    "isMainSleep": true,
+    "minutesAsleep": 298,
+    "timeInBed": 392,
+    "efficiency": 76,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 35},
+        "light": {"minutes": 136},
+        "rem": {"minutes": 54},
+        "wake": {"minutes": 78}
+      }
+    },
+    "hrv": {"dailyRmssd": 20.2},
+    "spo2": {"avg": 90.8},
+    "score": {"overall": 54}
+  },
+  {
+    "dateOfSleep": "2026-02-26",
+    "isMainSleep": true,
+    "minutesAsleep": 338,
+    "timeInBed": 410,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 44},
+        "light": {"minutes": 156},
+        "rem": {"minutes": 66},
+        "wake": {"minutes": 62}
+      }
+    },
+    "hrv": {"dailyRmssd": 22.5},
+    "spo2": {"avg": 91.8},
+    "score": {"overall": 62}
+  },
+  {
+    "dateOfSleep": "2026-02-27",
+    "isMainSleep": true,
+    "minutesAsleep": 362,
+    "timeInBed": 435,
+    "efficiency": 83,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 54},
+        "light": {"minutes": 168},
+        "rem": {"minutes": 76},
+        "wake": {"minutes": 55}
+      }
+    },
+    "hrv": {"dailyRmssd": 25.0},
+    "spo2": {"avg": 93.0},
+    "score": {"overall": 68}
+  },
+  {
+    "dateOfSleep": "2026-02-28",
+    "isMainSleep": true,
+    "minutesAsleep": 275,
+    "timeInBed": 380,
+    "efficiency": 72,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 28},
+        "light": {"minutes": 128},
+        "rem": {"minutes": 46},
+        "wake": {"minutes": 88}
+      }
+    },
+    "hrv": {"dailyRmssd": 18.0},
+    "spo2": {"avg": 89.0},
+    "score": {"overall": 46}
+  },
+  {
+    "dateOfSleep": "2026-03-01",
+    "isMainSleep": true,
+    "minutesAsleep": 345,
+    "timeInBed": 418,
+    "efficiency": 82,
+    "levels": {
+      "summary": {
+        "deep": {"minutes": 48},
+        "light": {"minutes": 158},
+        "rem": {"minutes": 70},
+        "wake": {"minutes": 58}
+      }
+    },
+    "hrv": {"dailyRmssd": 23.2},
+    "spo2": {"avg": 92.0},
+    "score": {"overall": 63}
+  }
+]
